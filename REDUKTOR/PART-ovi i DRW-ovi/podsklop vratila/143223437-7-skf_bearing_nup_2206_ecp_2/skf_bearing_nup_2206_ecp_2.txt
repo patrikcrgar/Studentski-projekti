@@ -1,0 +1,11 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-24012017-116316";"";
+"REFERENCE";"NUP 2206 ECP";"";
+"TraceParts.PartVersion";"1.1.9";"";
+"TraceParts.InstanceId";"10-24012017-1163165P9CQGFVENQ1VBNO1XANHOKMR";"";
+"TraceParts.PartTitle";"Cylindrical roller bearings, single row, no axial displacement, NUP design";"";
+"SUPPLIER";"SKF";"";
+"DESIGN";"Cylindrical roller bearings, single row, no axial displacement, NUP design, Bore Ø 30 mm, Outside Ø 62 mm";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"MASS";"0.266";"";
